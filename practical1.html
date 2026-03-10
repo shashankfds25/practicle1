@@ -1,0 +1,19 @@
+<html>
+    <body>
+        <header>
+        <h2>Sbjit Nagpur</h2>
+    </header>
+    <section>
+        <article>
+            <h2>Understanding HTMLS</h2>
+            <p>HTMLS introduced semantic elements to improve structure</p>
+        </article>
+        <article>
+                <h2>Why Use Semantic Tags?</h2>
+                <p>HTMLS introduced semantic elements to improve structure and accessibility.</p>
+        </article>
+    </section>
+    <footer>
+        <p>Web Designing Practical 1</p>
+    </footer>
+</html>
